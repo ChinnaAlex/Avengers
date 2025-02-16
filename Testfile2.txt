@@ -1,3 +1,5 @@
 This is a sample test file 2
 
 this commit for reset
+
+this command is for revert2
