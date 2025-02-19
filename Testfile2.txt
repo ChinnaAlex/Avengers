@@ -5,3 +5,4 @@ this commit for reset
 this command is for revert2
 this is for diff 1
 this is for diff2
+this comment is for git stash
