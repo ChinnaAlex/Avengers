@@ -1,5 +1,14 @@
 This is test file for sample download
 This is the commit from the local
 this is another commit from local
+this commit for reset
+this is the commit from local for reset
+
 
 this comment is to check branch merging
+
+this is for revert
+
+commit from locql for git
+commit for local commit
+
