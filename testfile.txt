@@ -4,4 +4,7 @@ this is another commit from local
 this commit for reset
 this is the commit from local for reset
 
-this is for revert1
+this is for revert
+
+commit from locql for git
+commit for local commit

@@ -3,3 +3,5 @@ This is a sample test file 2
 this commit for reset
 
 this command is for revert2
+this is for diff 1
+this is for diff2
